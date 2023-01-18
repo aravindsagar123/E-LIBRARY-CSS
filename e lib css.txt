@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <!-- Image and text -->
+<nav class="navbar navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="https://thumbs.dreamstime.com/z/library-logo-vector-icon-illustration-library-logo-vector-icon-illustration-design-book-open-education-learning-abstract-symbol-160438193.jpg" width="50" height="50" class="d-inline-block align-top" alt="">
+    <I>  E - LIBRARY </I>
+    </a>
+  </nav>
+         <div class="navbar-nav mx-auto">
+        <a class="navbar-brand" href="#"> HOME </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">ABOUT US <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">LOCATIONS</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                BOOKS
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">ACTION</a>
+                <a class="dropdown-item" href="#">DRAMA</a>
+                <a class="dropdown-item" href="#">TRADAGY</a>
+                <a class="dropdown-item" href="#">SAMSKRIT</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">ROMANCE</a>
+                </div>
+
+              </div>
+            </li>
+            
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        
+        </div>
+      </nav>
+  <head>
+    <style>
+        body{
+            background-image: url(https://c4.wallpaperflare.com/wallpaper/935/849/231/background-tree-book-wallpaper-preview.jpg);
+            background-repeat: no-repeat;
+            background-size:1800px 800px ;
+        }
+        h3{
+            color: antiquewhite;
+        }
+        h5{
+            color: antiquewhite;
+        }
+        h6{
+            color: red;
+        }
+        
+    </style>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>e lib </title>
+  </head>
+  <body>
+    
+      
+      <h3><CENTER>
+        EXPERNECE AND ENJOY THE NEW GENERATION WAY OF<BR> READING WITH <s>LIBRARY</s><B>  E - LIBARARY </B></CENTER>
+    </h3><br>
+    <br>
+    <br>
+    <br>
+    <H5>
+        <center> A digital library, also called an online library, an internet library, a digital repository, or a digital collection is an online database of digital objects that can include text,<br> still images, audio, video, digital documents, or other digital media formats or a library accessible through the internet.<br> Objects can consist of digitized content like print or photographs, as well as originally produced digital content like word processor files or social media posts.<br> In addition to storing content, digital libraries provide means for organizing, searching, and retrieving the content contained in the collection. Digital libraries can vary immensely in size and scope, and can be maintained by individuals or organizations.</center>
+    </H5><br>
+    <br>
+    
+
+    <h6>
+        <marquee width="100%" direction="down" height="100px" scrolldelay="2"><i><center> 50 percent off on your membership also get 20 days return perks </center></i></marquee>
+    </h6>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <section class="vh-100 bg-image"
+  style="background-image: url(https://c4.wallpaperflare.com/wallpaper/557/474/428/library-books-trinity-college-library-dublin-wallpaper-preview.jpg); background-repeat: no-repeat; background-size: 2000px 800px;">
+  <div class="mask d-flex align-items-center h-100 gradient-custom-3">
+    <div class="container h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+          <div class="card" style="border-radius: 15px;">
+            <div class="card-body p-5">
+              <h2 class="text-uppercase text-center mb-5">Create an account</h2>
+
+              <form>
+
+                <div class="form-outline mb-4">
+                  <input type="text" id="form3Example1cg" class="form-control form-control-lg" />
+                  <label class="form-label" for="form3Example1cg">Your Name</label>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <input type="email" id="form3Example3cg" class="form-control form-control-lg" />
+                  <label class="form-label" for="form3Example3cg">Your Email</label>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <input type="password" id="form3Example4cg" class="form-control form-control-lg" />
+                  <label class="form-label" for="form3Example4cg">Password</label>
+                </div>
+
+                <div class="form-outline mb-4">
+                  <input type="password" id="form3Example4cdg" class="form-control form-control-lg" />
+                  <label class="form-label" for="form3Example4cdg">Repeat your password</label>
+                </div>
+
+                <div class="form-check d-flex justify-content-center mb-5">
+                  <input class="form-check-input me-2" type="checkbox" value="" id="form2Example3cg" />
+                  <label class="form-check-label" for="form2Example3g">
+                    I agree all statements in <a href="#!" class="text-body"><u>Terms of service</u></a>
+                  </label>
+                </div>
+
+                <div class="d-flex justify-content-center">
+                  <button type="button"
+                    class="btn btn-success btn-block btn-lg gradient-custom-4 text-body">Register</button>
+                </div>
+
+                <p class="text-center text-muted mt-5 mb-0">Have already an account? <a href="#!"
+                    class="fw-bold text-body"><u>Login here</u></a></p>
+
+              </form>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section><br>
+<br>
+<br>
+<br>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
